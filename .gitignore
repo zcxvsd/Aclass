@@ -1,8 +1,6 @@
 ﻿이건비밀이야.txt
 *.txt
-
-
-
+!이건공유됨.txt
 # Created by https://www.gitignore.io/api/java,windows,eclipse
 # Edit at https://www.gitignore.io/?templates=java,windows,eclipse
 
